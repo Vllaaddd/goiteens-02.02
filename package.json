@@ -1,0 +1,25 @@
+{
+  "name": "goiteens-02.02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vllaaddd/goiteens-02.02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vllaaddd/goiteens-02.02/issues"
+  },
+  "homepage": "https://github.com/Vllaaddd/goiteens-02.02#readme",
+  "dependencies": {
+    "chart.js": "^4.2.0"
+  },
+  "devDependencies": {
+    "uuid": "^9.0.0"
+  }
+}
